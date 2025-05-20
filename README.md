@@ -1,58 +1,30 @@
-Halo! 👋
+Mahasiswa Teknologi Rekayasa Internet | Pengembang IoT dan Jaringan | Calon Profesional Pengembangan Game Unity
 
-Saya Andi Setiawan, mahasiswa program Teknologi Rekayasa Internet di Politeknik Negeri Lampung. Dengan hasrat yang kuat terhadap teknologi, saya berfokus pada pengembangan keterampilan dalam jaringan, sistem IoT, ilmu data, dan komputasi awan.
+Saya adalah mahasiswa aktif di program Teknologi Rekayasa Internet, Politeknik Negeri Lampung, dengan fokus kuat pada pengembangan teknologi terintegrasi, termasuk jaringan komputer, Internet of Things (IoT), ilmu data, dan cloud computing. Saya memiliki pengalaman praktis dalam merancang solusi teknologi inovatif serta kemampuan pemrograman yang matang di berbagai bahasa dan platform.
 
-🎓 Pendidikan
-- Sarjana Teknologi Rekayasa Internet
-Politeknik Negeri Lampunpung 
+Selama studi, saya telah mengerjakan beberapa proyek nyata yang memperkuat keterampilan teknis dan kemampuan problem solving saya, antara lain:
 
-Sebagai mahasiswa program ini, saya telah memperoleh pengalaman langsung dengan berbagai teknologi yang terkait dengan jaringan, protokol internet, layanan web, dan implementasi IoT. Saya terus mengeksplorasi cara memanfaatkan teknologi untuk sistem yang lebih cerdas dan lebih terhubung.
+Sistem Otomasi Rumah Berbasis IoT: Mengembangkan solusi smart home menggunakan modul ESP32, mengintegrasikan sensor dan aktuator yang terkoneksi dengan platform cloud untuk kontrol dan pemantauan real-time lewat aplikasi mobile. Proyek ini meningkatkan pemahaman saya tentang komunikasi IoT dan manajemen data skala kecil.
 
-🔭 Proyek Saat Ini
-- Sistem Otomasi Rumah Berbasis IoT:
-- Mengembangkan solusi otomasi rumah pintar menggunakan ESP32 untuk mengendalikan sistem pencahayaan, suhu, dan keamanan melalui aplikasi seluler.
-- Mengintegrasikan sensor dan aktuator dengan platform awan untuk pemantauan jarak jauh.
+Desain Infrastruktur Jaringan Perusahaan Kecil: Merancang dan mengonfigurasi jaringan yang aman dan efisien dengan teknologi Cisco, termasuk implementasi VLAN, subnetting, dan protokol routing. Pengalaman ini memperkuat kemampuan saya dalam pengelolaan jaringan dan troubleshooting.
 
-- Desain Infrastruktur Jaringan:
-- Merancang dan mengonfigurasi jaringan yang andal untuk perusahaan kecil menggunakan router dan switch Cisco.
-- Menyiapkan VLAN, subnetting, dan protokol routing untuk mengoptimalkan kinerja dan keamanan.
+Pengembangan Aplikasi Web E-Learning: Membuat platform web interaktif untuk pembelajaran online dengan fitur autentikasi pengguna, manajemen kursus, dan komunikasi real-time, menggunakan teknologi HTML, CSS, JavaScript, dan PHP.
 
-- Aplikasi Web untuk E-Learning:
+Pemantauan Kualitas Gas dan Udara di Laboratorium Kimia: Merancang sistem monitoring lingkungan dengan sensor kebocoran gas dan kualitas udara untuk meningkatkan keselamatan laboratorium, termasuk pembuatan dashboard visualisasi data yang efektif.
 
-- Membangun platform e-learning yang responsif dan interaktif menggunakan HTML, CSS, JavaScript, dan PHP.
+Pengembangan Website Promosi Produk Lokal: Membuat situs WordPress responsif untuk Kopi Lampung Nusantara, yang menggabungkan desain UI/UX, strategi SEO, dan konten yang menarik guna meningkatkan keterlibatan pelanggan dan branding produk lokal.
 
-- Platform ini memungkinkan autentikasi pengguna, pendaftaran kursus, dan komunikasi real-time antara mahasiswa dan instruktur.
+Keahlian saya meliputi pemrograman C#, Python, PHP, serta penggunaan Unity Engine untuk pengembangan game. Saya juga menguasai pengelolaan data, pemrograman jaringan, dan cloud computing menggunakan AWS dan Google Cloud Platform.
 
-- Pemantauan Kualitas Gas dan Udara di Laboratorium Kimia:
+Motivasi utama saya mengikuti program ini adalah untuk memperdalam pengetahuan dan keterampilan dalam pengembangan game menggunakan Unity, dengan harapan dapat mengaplikasikan teknologi interaktif dalam pembuatan game berkualitas. Saya percaya program ini akan menjadi landasan yang kuat untuk karir saya di industri game dan teknologi digital secara umum.
 
-- Memasang sensor kebocoran gas dan sensor kualitas udara di Laboratorium Kimia di Politeknik Negeri Lampung untuk meningkatkan keselamatan dan memastikan pemantauan real-time.
+Saya siap untuk belajar secara intensif, berkolaborasi dalam tim, dan berkontribusi secara maksimal demi mencapai tujuan bersama.
 
-- Mengembangkan dasbor untuk memvisualisasikan data kualitas udara, peringatan kebocoran gas, dan tingkat stok bahan kimia untuk manajemen laboratorium yang efisien.
+📫 Hubungi Saya:
 
-- Pengembangan Situs Web untuk Kopi Lampung Nusantara:
+Email: Andisetiawannn388@gmail.com
 
-- Membuat *situs web berbasis WordPress* untuk *Kopi Lampung Nusantara* untuk memamerkan produk kopi, sejarah, dan mempromosikan budaya kopi lokal.
+LinkedIn: [Andi Setiawan LinkedIn]
 
-- Menerapkan strategi SEO, desain responsif, dan navigasi yang mudah digunakan untuk meningkatkan lalu lintas web dan keterlibatan pelanggan.
+Instagram: @andiiisetiawan_
 
-💡 Keahlian
-- Jaringan: Cisco, Subnetting, VLAN, Protokol Routing
-- Pengembangan IoT: ESP32, Sensor, Aktuator, MQTT
-- Ilmu Data: Python, Pandas, NumPy, Visualisasi Data
-- Pemrograman Jaringan: Pemrograman Soket, REST API
-- Linux: Administrasi Sistem, Bash Scripting
-- Pengembangan Web: HTML, CSS, JavaScript, PHP, MySQL, WordPress
-- Cloud Computing: AWS, Google Cloud Platform
-- Pemrograman: Python, C/C++, Java
-
-🌱 Minat
-- Internet of Things (IoT)
-- Ilmu Data dan Pembelajaran Mesin
-- Keamanan Jaringan
-- Infrastruktur Cloud
-- Pengembangan Web & API
-
-📫 Hubungi Saya
-- Email: Andisetiawannn388@gmail.com
-- LinkedIn: [Andi Setiawan LinkedIn]
-- Instagram [andiiisetiawan_]
