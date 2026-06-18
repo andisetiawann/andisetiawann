@@ -118,7 +118,7 @@
 
 * LinkedIn: [www.linkedin.com/in/andi-setiawan-a67b05280](http://www.linkedin.com/in/andi-setiawan-a67b05280)
 * GitHub: https://github.com/andisetiawann
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [your-email@example.com](mailto:andisetiawan0890@gmail.com)
 
 ---
 
